@@ -1,0 +1,2 @@
+# CheckersTestTask
+Checkers Game TestTask
